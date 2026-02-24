@@ -11,7 +11,11 @@ I was having issues where my Bravia TV wasn't correctly switing it's output to b
 - Layout mimics physical remote
 - Full support HA UI Editor (no need to edit YAML code)
 
-![UI image](img/card_with_text.png "Sony Bravia Remote Card With Text") ![UI image](img/card_with_icons.png "Sony Bravia Remote Card With Icons")
+### With Text
+![UI image](img/card_with_text.png "Sony Bravia Remote Card With Text") 
+
+### With Icons
+![UI image](img/card_with_icons.png "Sony Bravia Remote Card With Icons")
 
 ## Installation
 
